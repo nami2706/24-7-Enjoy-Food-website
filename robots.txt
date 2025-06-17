@@ -1,1 +1,3 @@
-https://nami2706.github.io/24-7-Enjoy-Food-website/robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://nami2706.github.io/24-7-Enjoy-Food-website/sitemap.xml
